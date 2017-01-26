@@ -1,3 +1,6 @@
+# For corrections, post on github at: https://github.com/recluze/fast-journal-ranker
+# or contact Mohammad Nauman @ FAST Peshawar. mohammad.nauman@nu.edu.pk
+
 from lxml import html
 import requests
 import urllib
